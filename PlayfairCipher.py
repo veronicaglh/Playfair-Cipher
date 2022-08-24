@@ -188,4 +188,9 @@ def decrypt():
             print("{}{}".format(my_matrix[loc[0]][loc1[1]],my_matrix[loc1[0]][loc[1]]),end=' ')
         i=i+2
 
+
+EncryptButton = Button(myWindow, text="Encrypt", bg="#f4c5dc", font="Calibri 8 italic", command=encrypt)
+EncryptButton.place(x=600, y=270)
+DecryptButton = Button(myWindow, text="Decrypt", bg="#f4c5dc", font="Calibri 8 italic", command=decrypt)
+DecryptButton.place(x=650, y=270)
 myWindow.mainloop()
