@@ -5,7 +5,7 @@
 # To install these packages run the following commands on your IDE's terminal
 # pip install pillow
 
-
+# Import statements
 from tkinter import *
 from PIL import Image, ImageTk
 
