@@ -1,0 +1,2 @@
+###### This program will be able to receive a plain text and encrypt it using the playfair cipher. This program will also be able to decrypt a cipher text back into the original message. 
+###### Don't want to clone this repo? You can view the output here: https://drive.google.com/file/d/1AZ-ujNUSA6bL4K8pM5J3CLcRXKVusmjl/view
